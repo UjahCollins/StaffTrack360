@@ -1,9 +1,10 @@
 import React from 'react'
+import "./Button.css"
 
 const Button = () => {
   return (
-    <div>
-      
+    <div className='buttonMain'>
+      ADD EMPLOYEE
     </div>
   )
 }
